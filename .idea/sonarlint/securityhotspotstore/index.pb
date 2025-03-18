@@ -13,3 +13,5 @@ U
 %contracts/maintenance-scheduling.clar,f/7/f75564e007197f104115c4551443027923af5a64
 M
 contracts/usage-tracking.clar,e/9/e9b09179d691ec658ec849bf83481dab4134e530
+P
+ contracts/user-verification.clar,c/4/c4282d2e061bb27e988b77b8d84509de212742fb
