@@ -11,3 +11,5 @@ L
 tests/usage-tracking.test.ts,f/3/f3ccbb830bb90abf63cbc09d0b13119cf315d93c
 U
 %contracts/maintenance-scheduling.clar,f/7/f75564e007197f104115c4551443027923af5a64
+M
+contracts/usage-tracking.clar,e/9/e9b09179d691ec658ec849bf83481dab4134e530
